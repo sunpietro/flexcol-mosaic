@@ -5,6 +5,7 @@ It's a tiny (just 1.2kB) Javascript library to enable mosaic grid in multiple co
 
 ## How it works?
 This plugin uses [CSS flexbox](http://caniuse.com/#feat=flexbox) for setting items in columns. The JavaScript part is responsible for dynamically setting the height of a container according to desired number of columns.
+You can see the [Flexcol.Mosaic.js demo here](http://sunpietro.github.io/flexcol-mosaic/)
 
 ![Flexcol.Mosaic.js - 3 columns grid](https://dl.dropboxusercontent.com/u/55990510/flexcol.mosaic.3.cols.png)
 
