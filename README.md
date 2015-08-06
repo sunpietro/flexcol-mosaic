@@ -47,6 +47,12 @@ width: calc((100% / 3) - 1rem);
 * etc.
 
 ### JavaScript
+Download the library from this Github repository or use the terminal and type the following command:
+
+```
+npm install flexcol-mosaic
+```
+
 Just add a link to the `flexcol.mosaic.js` or `flexcol.mosaic.min.js` scripts in your HTML file, just like this:
 ```html
 <script src="js/flexcol.mosaic.js"></script>
